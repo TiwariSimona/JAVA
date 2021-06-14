@@ -3,8 +3,7 @@
 package daysOfCode;
 import java.util.Scanner;
 
-public class sol_2 {
-	
+public class sol_2 {	
 	public static void main(String args[]) {
 	    	Scanner sc=new Scanner(System.in);
 	    	System.out.println("Enter the number");
@@ -22,13 +21,10 @@ public class sol_2 {
 	        }
 	        System.out.println("and");
 	        System.out.println("Partial sum of Fibonacci numbers is ");
-	        System.out.println( result(num));
-	        
-	    }
-	    
+	        System.out.println( result(num));       
+	    }   
 	    static int result(int num)
 	    {
-
 	        int fi_no[]=new int[num+1];
 	        fi_no[0] = 0; 
 	        fi_no[1] = 1;
@@ -36,11 +32,9 @@ public class sol_2 {
 	      
 	        for (int i=2; i<=num; i++)
 	        {
-	        	
 	        	fi_no[i] = fi_no[i-1]+fi_no[i-2];
 	            add += fi_no[i];
-	        }
-	      
+	        }	      
 	        return add;
 	    }
 	}
