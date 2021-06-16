@@ -68,14 +68,9 @@ encrypt_message=c1+encrypt_message;
                     char c1=(char)p;
 encrypt_message=c1+encrypt_message;
              }
-
-
         }
 encrypt_message=encrypt_message.toUpperCase();
 System.out.print("the encrypt message is "+encrypt_message);
-
-
-
     }
 }
 
