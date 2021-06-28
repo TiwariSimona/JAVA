@@ -3,7 +3,6 @@
 package daysOfCode;
 
 public class sol_49 {
-	
 	    public static void main(String args[])
 	        {
 	            int t=8;
@@ -17,7 +16,7 @@ public class sol_49 {
 	                for(int z=1;z<=i;z++)
 	                {
 	                    System.out.print("*"+" ");
-	                   
+	      
 	                }
 	                t-=2;
 	                System.out.println();
