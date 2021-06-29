@@ -1,14 +1,12 @@
 //Program to calculate circular primes below one million
 
- 
 package daysOfCode;
 import java.util.*;
 public class sol_99 {
-
 public static void main(String[] args) {
         int count = 0; 
         int prime_count=0;
-        
+  
       for (long i = 2; i < 1000000; i++) {
           if(isprime(i)){
               prime_count++;
@@ -28,7 +26,7 @@ public static void main(String[] args) {
             if (a) {
                 count++;
             }
-      }   
+      }  
         }
         System.out.println("prime count is : "+prime_count);
         System.out.println("THE ANSWER IS :" + count);
