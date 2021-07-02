@@ -1,8 +1,5 @@
 import java.util.Scanner;
-
-public class bankingApplication {
-
-   
+public class bankingApplication { 
     public static void main(String[] args) {
        Scanner sc=new Scanner(System.in);
       Bankaccount obj=new Bankaccount("abc","12345");
