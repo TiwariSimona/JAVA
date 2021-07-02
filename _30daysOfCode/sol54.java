@@ -14,8 +14,7 @@ public class sol_54 {
 	           }
 	           m-=2;
 	           System.out.println();
-	           s=s+" ";
-	          
+	           s=s+" "; 
 	        }
 	    System.out.print(" ");
 	    int m1=3;
@@ -28,8 +27,7 @@ public class sol_54 {
 	    m1+=2;
 	System.out.println();
 	    }
-	}
-	    
+	}    
 	}
 
 
