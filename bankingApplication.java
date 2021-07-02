@@ -6,8 +6,7 @@ public class bankingApplication {
       obj.showdata();  
     }
     }
-    
-
+ 
 class Bankaccount
 {
     String CustomerName;
@@ -35,8 +34,7 @@ class Bankaccount
         {
         Balance=Balance-amt;
         PreviousTransaction=-amt;
-        }
-        
+        }  
     }
 void getprevioustransaction()
 {
