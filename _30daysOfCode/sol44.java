@@ -3,9 +3,6 @@
 package daysOfCode;
 import java.util.Scanner;
 public class sol_44 {
-	
-
-	
 	 public static void main(String args[])
 		{
 		 System.out.println("enter number");		
