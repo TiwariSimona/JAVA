@@ -1,7 +1,6 @@
 //Write a program to evaluate the function sin(x) as defined by the infinite series expansion.
 
 import static java.lang.Math.sin;
-
 public class ques73 {
 		static void cal_sin(float n)
 		{    
@@ -22,8 +21,7 @@ public class ques73 {
 		       System.out.println(sinx);
 		}
 		 
-	
-		 
+
 		 
 		    public static void main(String[] args) {
 		        float n = 90;
