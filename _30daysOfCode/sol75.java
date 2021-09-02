@@ -1,6 +1,7 @@
 //WAP that show double factorial
 
 package daysOfCode;
+
 import java.util.Scanner;
 public class sol_75 {		 
 	    static long D_fac(long n)
