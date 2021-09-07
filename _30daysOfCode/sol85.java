@@ -21,6 +21,7 @@ public class sol_85 {
 	                  System.out.println("");  
 	              }
 	       }
+	
 	}
 
 
