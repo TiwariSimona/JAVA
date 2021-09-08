@@ -20,4 +20,5 @@ public class sol_1 {
 	            return (num - 1) * (total(num- 1) +  total(num - 2));
 	                         
 	      }
+	
 	    }
