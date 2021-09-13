@@ -21,3 +21,4 @@ public class Q93 {
         System.out.println("Sum of digits are = "+b);
     }
 }
+
