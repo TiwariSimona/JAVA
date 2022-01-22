@@ -6,6 +6,7 @@ public class bankingApplication {
       obj.showdata();  
     }
  } 
+
 class Bankaccount
 {
     String CustomerName;
