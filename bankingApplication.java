@@ -5,7 +5,7 @@ public class bankingApplication {
       Bankaccount obj=new Bankaccount("abc","12345");
       obj.showdata();  
     }
-    }
+ }
  
 class Bankaccount
 {
