@@ -7,6 +7,7 @@ public class bankingApplication {
     }
  } 
 
+
 class Bankaccount
 {
     String CustomerName;
