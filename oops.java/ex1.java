@@ -20,3 +20,4 @@ public class Customer {
 		System.out.println("The total cost to be paid is " + totalCost);
 	}
 }
+
