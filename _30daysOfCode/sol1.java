@@ -5,7 +5,9 @@ import java.util.*;
 public class sol_1 {
 	
 	  public static void main (String[] args){
-    Scanner sc = new Scanner(System.in);
+    
+		  
+		  sc = new Scanner(System.in);
   	System.out.println("Enter a positive integer");
     int n =sc.nextInt();
 	  System.out.println( "The number of elements such hat no element appears in its original position " +total(n));                     
