@@ -47,7 +47,8 @@ void getprevioustransaction()
         
          else
          System.out.println("No Transaction occurred");
-}      
+}     
+    
 
      void showdata()
         {
